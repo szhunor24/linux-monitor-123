@@ -1,4 +1,5 @@
 #!/bin/bash
+# Rendszeradatok, uzemido es memoria megjelenitese.
 echo "TEAM STATUS REPORT"
 echo "Hostname: $(hostname)"
 echo "User: $(whoami)"
