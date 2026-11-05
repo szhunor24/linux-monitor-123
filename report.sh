@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "PROJECT STATUS REPORT"
+echo "ANNA STATUS REPORT"
 echo "Hostname: $(hostname)"
 echo "User: $(whoami)"
 echo "Date: $(date '+%Y-%m-%d')"
